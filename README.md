@@ -1,4 +1,4 @@
-# [JavaScript Calculator](https://demsource.github.io/JavaScript-Calculator/)
+# [JavaScript Calculator](https://demsource.github.io/javascript-calculator/)
 
 Utilized:
 * HTML
