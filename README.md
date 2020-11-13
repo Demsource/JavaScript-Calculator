@@ -4,5 +4,6 @@ Utilized:
 * HTML
 * CSS
 * VanillaJS
+* DOM
 
 **_By Demo_**
